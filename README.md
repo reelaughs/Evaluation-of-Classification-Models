@@ -1,4 +1,4 @@
-Assignment for #Data-Mining module, NTU MSc Information Systems**
+**Assignment for #Data-Mining module, NTU MSc Information Systems**
 
 The task was to compare two existing implementations of classifiers; firstly training and testing them on a dataset provided followed by comparing the two models using techniques for classification model comparison. This included a full performance comparison for the two models including the time it took to train and apply the model, as well as justification for all decision making e.g., the fine-tuning of model hyper-parameters, handling of missing values, stopping criterion, etc as well as underlying thought processes underlying any data pre-processing.
 
